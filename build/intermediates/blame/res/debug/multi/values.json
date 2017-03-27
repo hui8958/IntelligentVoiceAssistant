@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 23,
+                    "endOffset": 74
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 6,
+                        "startOffset": 1343,
+                        "endColumn": 33,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 79,
+                    "endColumn": 52,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 52,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 43,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 43,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 40,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 40,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 39,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 6,
+                        "startOffset": 1301,
+                        "endColumn": 41,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 46,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 6,
+                        "startOffset": 1030,
+                        "endColumn": 48,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 28,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 36,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 59,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 59,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 41,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 41,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 47,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 47,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 41,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 41,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 59,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 59,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 52,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 52,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 48,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 48,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 43,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 6,
+                        "startOffset": 1255,
+                        "endColumn": 45,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 52,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 52,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 60,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 39,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 6,
+                        "startOffset": 1125,
+                        "endColumn": 41,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 48,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 48,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 42,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 42,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 44,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 44,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 43,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 6,
+                        "startOffset": 1209,
+                        "endColumn": 45,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 33,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 33,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 39,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 6,
+                        "startOffset": 1167,
+                        "endColumn": 41,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 60,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 60,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 50,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 50,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 45,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 45,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 43,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "D:\\Github\\IntelligentVoiceAssistant\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 6,
+                        "startOffset": 1079,
+                        "endColumn": 45,
+                        "endOffset": 1118
+                    }
+                }
+            }
+        ]
+    }
+]

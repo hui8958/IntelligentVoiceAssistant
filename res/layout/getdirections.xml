@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+
+    android:layout_height="fill_parent"
+
+    android:orientation="vertical" >
+
+ 
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:text="Start:"
+
+        android:textColor="@android:color/white"
+
+        android:textSize="18dp">
+
+    </TextView>
+
+ 
+
+    <EditText
+
+        android:id="@+id/start"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:textSize="18dp"
+
+        android:text="Current location"
+
+        >
+
+    </EditText>
+
+ 
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:textColor="@android:color/white"
+
+        android:textSize="18dp"
+
+        android:text="To:" >
+
+    </TextView>
+
+ 
+
+    <EditText
+
+        android:id="@+id/end"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:textSize="18dp"
+
+        android:text="" >
+
+    </EditText>
+
+ 
+
+</TableLayout>

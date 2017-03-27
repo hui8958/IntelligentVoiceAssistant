@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">VAssistant</string>
+    <string name="ButtonText">Send</string>
+    <string name="Weather"></string>
+    <string name="activity_title">MY EVENT HANDLER</string>
+    <string name="memo_title">TITLE</string>
+    <string name="memo_content">CONTENT</string>
+    <string name="memo_date">DATE</string>
+    <string name="selectdate">SELECT DATE</string>
+    <string name="deletememo">DEL EVENT</string>
+    <string name="updatememo">MODIFY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="check_update">CHECK/MODIFY EVENT</string>
+    <string name="add">ADD EVENT</string>
+    <string name="select">EVENTS OF A SELECTED DATE</string>
+    <string name="findall">CHECK ALL EVENTS</string>
+    <string name="delall">DELETE ALL EVENTS</string>
+    <string name="ButtonSpeak">Tap to Speak</string>
+    <string name="ChangeMode">T</string>
+      <string name="Version">V1.1 Alpha</string>
+      <string name="weather">Weather</string>
+      <string name="maphelp">Map</string>
+      <string name="phone">Phone</string>
+      <string name="messagehelp">SMS</string>
+      <string name="emailhelp">Email</string>
+      <string name="Image">Image</string>
+      <string name="BT"></string>
+     
+</resources>

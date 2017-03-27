@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<LinearLayout android:orientation="horizontal" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+
+			<TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:paddingLeft="16dip"
+			    android:paddingRight="6dip"
+			    android:text="DATE" >
+
+	    	</TextView>
+
+	 	    <Button
+	 	        android:id="@+id/Buttonselectdate"
+	 	        android:layout_width="204sp"
+	 	        android:layout_height="wrap_content"
+	 	        android:layout_marginRight="16dip"
+	 	        android:text="SELECT DATE" >
+
+	  	 	</Button>
+	</LinearLayout>
+		
+	
+
+	<LinearLayout android:orientation="horizontal" 
+		android:gravity="center" 
+		android:layout_height="fill_parent" 
+		android:layout_width="fill_parent" 
+		android:layout_marginLeft="16dip" 
+		android:layout_marginRight="16dip" 
+		android:layout_weight="2">
+
+			<Button
+			    android:id="@+id/Buttonqueryok"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:text="OK" >
+		
+			</Button>
+
+			<Button
+			    android:id="@+id/Buttonqueryback"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:text="CALCEL" >
+		
+			</Button>
+	</LinearLayout>
+
+</LinearLayout>

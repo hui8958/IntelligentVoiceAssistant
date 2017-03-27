@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+     android:layout_marginRight="10dp"
+    android:baselineAligned="false"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/weatherbackground"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Weather"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout04"
+                    android:layout_width="78dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textViewfirstday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+<View android:layout_height = "5px" android:layout_width = "5px"/>
+
+                    <ImageView
+                        android:id="@+id/imageViewfirstdayicon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/chance_of_rain" />
+
+<View android:layout_height = "10px" android:layout_width = "5px" />
+
+					<TextView
+					    android:id="@+id/textViewfirstdayhigh"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_gravity="center_horizontal"
+					    android:text="TextView" />
+
+                    <TextView
+                        android:id="@+id/textViewfirstdaylow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View android:layout_height="10px" android:layout_width = "5px"/>
+
+                    <TextView
+                        android:id="@+id/textViewfirstdaycondition"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView"
+                        android:textSize="9sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout02"
+                    android:layout_width="71dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="5.50"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextViewsecondday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View
+                        android:layout_height="5px" android:layout_width = "5px"
+                      />
+
+                    <ImageView
+                        android:id="@+id/ImageViewseconddayicon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/chance_of_rain" />
+
+                    <View
+                        android:layout_height="10px" android:layout_width = "5px"
+                         />
+
+                    <TextView
+                        android:id="@+id/TextViewseconddayhigh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <TextView
+                        android:id="@+id/TextViewseconddaylow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View android:layout_height="10px"  android:layout_width = "5px"/>
+
+                    <TextView
+                        android:id="@+id/TextViewseconddaycondition"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView"
+                        android:textSize="9sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout03"
+                    android:layout_width="74dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="12.83"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextViewthirdday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View
+                        android:layout_height="5px" android:layout_width = "5px"
+                         />
+
+                    <ImageView
+                        android:id="@+id/ImageViewthirddayicon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/chance_of_rain" />
+
+                    <View
+                        android:layout_height="10px" android:layout_width = "5px"
+                     />
+
+                    <TextView
+                        android:id="@+id/TextViewthirddayhigh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <TextView
+                        android:id="@+id/TextViewthirddaylow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View android:layout_height="10px" android:layout_width = "5px" />
+
+                    <TextView
+                        android:id="@+id/TextViewthriddaycondition"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView"
+                        android:textSize="9sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout01"
+                    android:layout_width="81dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextViewfourthday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View
+                        android:layout_height="5px" android:layout_width = "5px"
+                        />
+
+                    <ImageView
+                        android:id="@+id/ImageViewfourthdayicon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/chance_of_rain" />
+
+                    <View
+                        android:layout_height="10px" android:layout_width = "5px"
+                        />
+
+                    <TextView
+                        android:id="@+id/TextViewfourthdayhigh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <TextView
+                        android:id="@+id/TextViewfourthdaylow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView" />
+
+                    <View android:layout_height="10px" android:layout_width = "5px"/>
+
+                    <TextView
+                        android:id="@+id/TextViewfourthdaycondition"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="TextView"
+                        android:textSize="9sp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\raw\\canon.wav",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\raw\\canon.wav"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\raw\\speech_on.wav",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\raw\\speech_on.wav"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\raw\\speech_off.wav",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\raw\\speech_off.wav"
+    }
+]

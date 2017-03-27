@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:2:11-39
+	android:versionName
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml
+		INJECTED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml
+		INJECTED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:4:31-89
+uses-permission#android.permission.INTERNET
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:11:22-86
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:14:5-64
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:14:22-61
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:15:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:24:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:25:5-97
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:25:22-95
+uses-permission#edu.hui.vassistant.permission.MAPS_RECEIVE
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:27:9-85
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:27:26-83
+uses-feature#android.hardware.camera
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:29:19-67
+uses-feature#0x00020000
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:30:2-33:34
+	android:glEsVersion
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:31:6-38
+	android:required
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:33:9-32
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:34:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:36:22-71
+application
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:38:5-75:19
+	android:label
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:41:9-41
+	android:icon
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:40:9-38
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:39:9-44
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:43:10-45:62
+	android:value
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:45:5-60
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:44:5-54
+service#edu.hui.vassistant.services.MusicService
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:47:9-51:19
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:47:18-55
+intent-filter#edu.hui.assistant.MusicService
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:48:13-50:29
+action#edu.hui.assistant.MusicService
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:49:17-73
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:49:25-70
+activity#edu.hui.vassistant.activities.CameraActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:52:19-60
+activity#edu.hui.vassistant.activities.DateMemoActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:54:9-74
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:54:19-62
+activity#edu.hui.vassistant.activities.HelpActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:55:9-70
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:55:19-58
+activity#edu.hui.vassistant.activities.HelpContentActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:56:9-77
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:56:19-65
+activity#edu.hui.vassistant.activities.ImageViewActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:57:9-75
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:57:19-63
+activity#edu.hui.vassistant.activities.Song
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:58:9-62
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:58:19-50
+activity#edu.hui.vassistant.activities.MapsActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:59:9-70
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:59:19-58
+activity#edu.hui.vassistant.activities.NavigationActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:60:9-76
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:60:19-64
+receiver#edu.hui.vassistant.receivers.AlarmReceiver
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:61:9-70
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:61:19-58
+receiver#edu.hui.vassistant.receivers.AppWidget
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:62:9-66
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:62:19-54
+receiver#edu.hui.vassistant.receivers.BluetoothReceiver
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:63:9-74
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:63:19-62
+receiver#edu.hui.vassistant.receivers.ScanSdReceiver
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:64:9-71
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:64:19-59
+activity#edu.hui.vassistant.LoadingScreenActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:65:9-71:20
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:65:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:67:18-70
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:67:26-67
+category#android.intent.category.LAUNCHER
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:69:27-74
+activity#edu.hui.vassistant.MainActivity
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:72:9-58
+	android:name
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:72:19-46
+uses-sdk
+ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:77:5-43
+	android:minSdkVersion
+		ADDED from D:\Github\IntelligentVoiceAssistant\AndroidManifest.xml:77:15-40

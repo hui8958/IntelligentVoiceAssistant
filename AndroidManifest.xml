@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="edu.hui.vassistant"
+    android:versionCode="1"
+    android:versionName="1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+	
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+  <!--   <uses-permission android:name="android.permission.CALL_PRIVILEGED" />--> 
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+
+        <uses-permission android:name="edu.hui.vassistant.permission.MAPS_RECEIVE"/>
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+	<uses-feature
+	    android:glEsVersion="0x00020000"
+
+        android:required="true"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name=".supports.WebService"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        
+         <meta-data
+    android:name="com.google.android.maps.v2.API_KEY"
+    android:value="AIzaSyCXwyhNiB_GUzD9OPjOgi3RAVtMbV4Olbg"/>
+    
+        <service android:name=".services.MusicService" >
+            <intent-filter>
+                <action android:name="edu.hui.assistant.MusicService" />
+            </intent-filter>
+        </service>
+        <activity android:name=".activities.CameraActivity">
+        </activity>
+        <activity android:name=".activities.DateMemoActivity"></activity>
+        <activity android:name=".activities.HelpActivity"></activity>
+        <activity android:name=".activities.HelpContentActivity"></activity>
+        <activity android:name=".activities.ImageViewActivity"></activity>
+        <activity android:name=".activities.Song"></activity>
+        <activity android:name=".activities.MapsActivity"></activity>
+        <activity android:name=".activities.NavigationActivity"></activity>
+        <receiver android:name=".receivers.AlarmReceiver"></receiver>
+        <receiver android:name=".receivers.AppWidget"></receiver>
+        <receiver android:name=".receivers.BluetoothReceiver"></receiver>
+        <receiver android:name=".receivers.ScanSdReceiver"></receiver>
+        <activity android:name="LoadingScreenActivity">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="MainActivity"></activity>
+	   
+ 
+    </application>
+
+    <uses-sdk android:minSdkVersion="8" />
+
+</manifest>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\maps.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\maps.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\mainevent.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\mainevent.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\maindialog_view.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\maindialog_view.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\helpcontent.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\helpcontent.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\weatherweekdetail.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\weatherweekdetail.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\load.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\load.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_me_item.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\list_say_me_item.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\imagedetail.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\imagedetail.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\cameraview.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\cameraview.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\querydialog_view.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\querydialog_view.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\weatherdetail.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\weatherdetail.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\getdirections.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\getdirections.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_he_item.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\list_say_he_item.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\translate.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\translate.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\navigation.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\navigation.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\helpview.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\helpview.xml"
+    },
+    {
+        "merged": "D:\\Github\\IntelligentVoiceAssistant\\build\\intermediates\\res\\merged\\debug\\layout\\imageview.xml",
+        "source": "D:\\Github\\IntelligentVoiceAssistant\\res\\layout\\imageview.xml"
+    }
+]
